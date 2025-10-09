@@ -1,1 +1,23 @@
-
+{
+  "FIntRenderShadowIntensity": "0",
+  "FFlagDisablePostFx": "True",
+  "FIntTerrainArraySliceSize": "0",
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FLogNetwork": "7",
+  "FIntDebugForceMSAASamples": "1",
+  "FFlagDebugGraphicsPreferD3D11": "True",
+  "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
+  "DFIntDebugFRMQualityLevelOverride": "1",
+  "FFlagNewLightAttenuation": "True",
+  "DFFlagDebugRenderForceTechnologyVoxel": "True",
+  "FIntRomarkStartWithGraphicQualityLevel": "1",
+  "DFIntTaskSchedulerTargetFps": "999999",
+  "DFFlagDisableDPIScale": "True",
+  "DFFlagTextureQualityOverrideEnabled": "True",
+  "DFIntTextureQualityOverride": "0",
+  "DFIntPerformanceControlTextureQualityBestUtility": "-1",
+  "FIntDebugTextureManagerSkipMips": "8",
+  "DFIntConnectionMTUSize": "900",
+  "DFFlagDebugPauseVoxelizer": "True",
+  "FFlagDebugSkyGray": "true"
+}
